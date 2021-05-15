@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'moviesProjectIEEMDB'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8bb3f4f7dded4f63b8fd6fe251cec517 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e161ebfc19e149119126b395bfd8d540 }}
         package: .
